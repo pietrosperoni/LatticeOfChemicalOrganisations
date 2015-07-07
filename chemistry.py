@@ -1,1 +1,6 @@
-chemistry="matrixchemistry"
+#chemistry="matrixchemistry"
+#chemistry="matrixchemistryNTOP"
+#chemistry="matrixchemistry"
+chemistry="Read_REA_File"
+#experiment="01"
+experiment="03"
