@@ -1,3 +1,6 @@
+#IF YOU USE THIS SOFTWARE IN YOUR ACADEMIC RESEARCH PLEASE CITE THE PAPER WHERE IT WAS PRESENTED:
+#Pietro Speroni di Fenizio: "The Lattice of Chemical Organisations" in Proceedings of European Conference of Artificial Life (ECAL) 2015. 20-24 July, 2015. York. In print.
+
 import time
 import os
 print"starting"
